@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioCalculadora", "ServicioCalculadora\ServicioCalculadora.csproj", "{4596FBC5-2E9C-492C-B0E1-D65A21F74CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4596FBC5-2E9C-492C-B0E1-D65A21F74CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4596FBC5-2E9C-492C-B0E1-D65A21F74CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4596FBC5-2E9C-492C-B0E1-D65A21F74CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4596FBC5-2E9C-492C-B0E1-D65A21F74CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
