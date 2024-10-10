@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p7_infija", "p7_infija\p7_infija.csproj", "{83A3374A-6D68-41EA-AE54-CBA9C55E4DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaInfija", "BibliotecaInfija\BibliotecaInfija.csproj", "{588081E1-F750-4650-A9CE-FD499EB4F2D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A3374A-6D68-41EA-AE54-CBA9C55E4DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A3374A-6D68-41EA-AE54-CBA9C55E4DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A3374A-6D68-41EA-AE54-CBA9C55E4DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A3374A-6D68-41EA-AE54-CBA9C55E4DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{588081E1-F750-4650-A9CE-FD499EB4F2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588081E1-F750-4650-A9CE-FD499EB4F2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588081E1-F750-4650-A9CE-FD499EB4F2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588081E1-F750-4650-A9CE-FD499EB4F2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
